@@ -157,6 +157,14 @@
 # #### try-except e if
 
 # 21: Conversor de Temperatura
+
+try:
+    celsius = int(input("Digite a temperatura em celsius (número inteiro): "))
+    fahr = fahr = celsius * (9 / 5) + 32
+    print(f"Fahrenheit: {fahr}")
+except Exception as e:
+    print(f"Input inválido, retorno do programa: {e}")
+
 # 22: Verificador de Palíndromo
 # 23: Calculadora Simples
 # 24: Classificador de Números
