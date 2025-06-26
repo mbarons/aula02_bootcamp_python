@@ -113,6 +113,11 @@
 
 # 15. Escreva um programa que concatene duas strings fornecidas pelo usuário.
 
+# palavra1 = input("Digite uma palavra: ")
+# palavra2 = input("Digite outra palavra: ")
+
+# print(palavra1 + palavra2)
+
 # #### Booleanos (`bool`)
 
 # 16. Escreva um programa que avalie duas expressões booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
