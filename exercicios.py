@@ -77,6 +77,12 @@
 
 # 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
 
+# raio = float(input("Digite o raio do círculo: "))
+
+# area = 3.14159 * raio**2
+
+# print(f"A área do círculo de raio {raio} é de {area}")
+
 # #### Strings (`str`)
 
 # 11. Escreva um programa que receba uma string do usuário e a converta para maiúsculas.
