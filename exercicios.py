@@ -61,6 +61,12 @@
 # print(avg)
 
 # 8. Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
+
+x = int(input("Digite a base: "))
+y = int(input("Digite o expoente: "))
+
+print(x**y)
+
 # 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
 # 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
 
