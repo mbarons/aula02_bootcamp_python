@@ -7,6 +7,13 @@
 # print(f"A some dos dois números é {x+y}")
 
 # 2. Crie um programa que receba um número do usuário e calcule o resto da divisão desse número por 5.
+
+# numero = int(input("Digite um número inteiro: "))
+# resto = numero % 5
+
+# print(f"O resto da divisão do seu número por 5 é {resto}")
+
+
 # 3. Desenvolva um programa que multiplique dois números fornecidos pelo usuário e mostre o resultado.
 # 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
 # 5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
