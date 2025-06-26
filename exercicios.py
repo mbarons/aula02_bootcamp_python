@@ -25,6 +25,14 @@
 
 
 # 4. Faça um programa que peça dois números inteiros e imprima a divisão inteira do primeiro pelo segundo.
+
+# x = int(input("Digite um número: "))
+# y = int(input("Digite outro número: "))
+
+# resultado = x // y
+
+# print(resultado)
+
 # 5. Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
 
 # #### Números de Ponto Flutuante (`float`)
