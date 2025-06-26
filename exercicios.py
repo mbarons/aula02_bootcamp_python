@@ -51,8 +51,15 @@
 
 # print(x + y)
 
-
 # 7. Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
+
+# x = float(input("Digite um número: "))
+# y = float(input("Digite outro número: "))
+
+# avg = (x + y) / 2
+
+# print(avg)
+
 # 8. Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
 # 9. Faça um programa que converta a temperatura de Celsius para Fahrenheit.
 # 10. Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
