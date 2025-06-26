@@ -121,10 +121,38 @@
 # #### Booleanos (`bool`)
 
 # 16. Escreva um programa que avalie duas expressões booleanas inseridas pelo usuário e retorne o resultado da operação AND entre elas.
+
+# bool1 = True
+# bool2 = False
+
+# print(bool1 and bool2)
+
 # 17. Crie um programa que receba dois valores booleanos do usuário e retorne o resultado da operação OR.
+
+# bool1 = True
+# bool2 = False
+
+# print(bool1 or bool2)
+
 # 18. Desenvolva um programa que peça ao usuário para inserir um valor booleano e, em seguida, inverta esse valor.
+
+# bool1 = True
+
+# print(not bool1)
+
 # 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
+
+# x = int(input("Digite um número: "))
+# y = int(input("Digite o mesmo número: "))
+
+# print(x == y)
+
 # 20. Escreva um programa que verifique se dois números fornecidos pelo usuário são diferentes.
+
+# x = int(input("Digite um número: "))
+# y = int(input("Digite um número diferente: "))
+
+# print(x != y)
 
 # #### try-except e if
 
